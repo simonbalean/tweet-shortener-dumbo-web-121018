@@ -26,7 +26,10 @@ def word_substituter(string)
 end
 
 
-
-def bulk_tweet_shortener
-  
+def bulk_tweet_shortener(array)
+  word_substituter(string)
 end
+
+
+
+
