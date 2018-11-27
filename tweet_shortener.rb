@@ -6,7 +6,10 @@ end
 
 
 def dictionary
-  h
+  dictionary = {
+    hello => hi 
+    
+  }
 end
 
 
