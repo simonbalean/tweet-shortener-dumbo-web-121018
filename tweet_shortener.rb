@@ -1,10 +1,5 @@
 # Write your code here.
 
-def word_substituter(string)
-  
-end
-
-
 def dictionary
   dictionary = {
     "hello" => "hi" 
@@ -18,6 +13,12 @@ def dictionary
     "and" => "&"
   }
 end
+
+
+def word_substituter(string)
+  
+end
+
 
 
 def bulk_tweet_shortener
