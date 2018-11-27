@@ -52,6 +52,8 @@ def selective_tweet_shortener(string)
 end
 
 
+def shortened_tweet_truncator
+
 
 
 
