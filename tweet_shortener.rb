@@ -21,7 +21,7 @@ def word_substituter(string)
       word = dictionary[word]
     else word
     end
-  end
+  end.join(" ")
 end
 
 
